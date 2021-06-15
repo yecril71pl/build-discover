@@ -1,2 +1,6 @@
 FROM ubuntu
-RUN apt-get install cmake
+RUN apt-get update -y
+RUN apt-get install -y apt-utils
+RUN ln -sT /usr/share/zoneinfo/Europe/Warsaw /etc/localtime
+RUN apt-get install -y libterm-readline-gnu-perl
+RUN apt-get install -y cmake

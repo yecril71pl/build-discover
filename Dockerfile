@@ -13,16 +13,15 @@ apt-get\
  qtdeclarative5-dev\
  libqt5x11extras5-dev\
  pkg-config\
- kf5-coreaddons-dev\
- kf5config-dev\
- kf5crash-dev\
- kf5dbusaddons-dev\
- kf5i18n-dev\
- kf5archive-dev\
- kf5xmlgui-dev\
- kf5itemmodels-dev\
- kf5kio-dev\
- kf5declarative-dev\
- kf5kcmutils-dev\
- kf5idletime-dev\
- 
+ libkf5coreaddons-dev\
+ libkf5config-dev\
+ libkf5crash-dev\
+ libkf5dbusaddons-dev\
+ libkf5i18n-dev\
+ libkf5archive-dev\
+ libkf5xmlgui-dev\
+ libkf5itemmodels-dev\
+ libkf5kio-dev\
+ libkf5declarative-dev\
+ libkf5kcmutils-dev\
+ libkf5idletime-dev\

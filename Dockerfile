@@ -11,4 +11,17 @@ apt-get\
  cmake\
  qtdeclarative5-dev\
  libqt5x11extras5-dev\
- pkg-config
+ pkg-config\
+ kf5coreaddons-dev\
+ kf5config-dev\
+ kf5crash-dev\
+ kf5dbusaddons-dev\
+ kf5i18n-dev\
+ kf5archive-dev\
+ kf5xmlgui-dev\
+ kf5itemmodels-dev\
+ kf5kio-dev\
+ kf5declarative-dev\
+ kf5kcmutils-dev\
+ kf5idletime-dev\
+ 

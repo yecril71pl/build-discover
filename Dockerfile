@@ -3,6 +3,7 @@ RUN apt-get update -y
 RUN apt-get install -y apt-utils
 RUN ln -sT /usr/share/zoneinfo/Europe/Warsaw /etc/localtime
 RUN apt-get install -y libterm-readline-gnu-perl
+RUN apt-cache search kf5
 RUN \
 apt-get\
  install -y\

@@ -1,2 +1,3 @@
 FROM ghcr.io/yecril71pl/build-discover:main
-RUN ubuntu-bug ki18n
+RUN lsb_release -rd
+RUN apt-cache policy ki18n

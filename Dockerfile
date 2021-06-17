@@ -12,7 +12,7 @@ apt-get\
  qtdeclarative5-dev\
  libqt5x11extras5-dev\
  pkg-config\
- kf5coreaddons-dev\
+ kf5-coreaddons-dev\
  kf5config-dev\
  kf5crash-dev\
  kf5dbusaddons-dev\

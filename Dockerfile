@@ -30,7 +30,7 @@ apt-get\
  libpackagekitqt5-dev\
  libappstreamqt-dev\
  libkf5newstuff-dev\
- flatpak-dev\
+ libflatpak-dev\
  libfwupd-dev\
  libmarkdown2-dev\
  kuserfeedback-dev\

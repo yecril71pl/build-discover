@@ -26,7 +26,7 @@ apt-get\
  libkf5kcmutils-dev\
  libkf5idletime-dev\
  gettext\
- libkf5kirigami2-dev\
+ kirigami2-dev\
  packagekitqt5-dev\
  appstreamqt-dev\
  kf5newstuff-dev\

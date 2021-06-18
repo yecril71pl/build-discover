@@ -32,7 +32,7 @@ apt-get\
  libkf5newstuff-dev\
  flatpak\
  libfwupd-dev\
- libmarkdown-dev\
+ libmarkdown2-dev\
  libkuserfeedback-dev\
  snapd-dev\
  libkf5notifications-dev\

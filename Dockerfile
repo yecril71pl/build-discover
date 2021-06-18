@@ -31,7 +31,7 @@ apt-get\
  libappstreamqt-dev\
  libkf5newstuff-dev\
  flatpak\
- fwupd-dev\
+ libfwupd-dev\
  libmarkdown-dev\
  libkuserfeedback-dev\
  snapd-dev\

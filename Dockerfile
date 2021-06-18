@@ -25,3 +25,4 @@ apt-get\
  libkf5declarative-dev\
  libkf5kcmutils-dev\
  libkf5idletime-dev\
+ gettext\

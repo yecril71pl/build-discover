@@ -34,5 +34,5 @@ apt-get\
  libfwupd-dev\
  libmarkdown2-dev\
  kuserfeedback-dev\
- snapd-dev\
+ libsnapd-qt-dev\
  libkf5notifications-dev\

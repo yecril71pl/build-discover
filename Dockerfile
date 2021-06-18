@@ -28,8 +28,8 @@ apt-get\
  gettext\
  kirigami2-dev\
  libpackagekitqt5-dev\
- appstreamqt-dev\
- kf5newstuff-dev\
+ libappstreamqt-dev\
+ libkf5newstuff-dev\
  flatpak\
  fwupd-dev\
  libmarkdown-dev\

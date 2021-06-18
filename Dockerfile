@@ -27,7 +27,7 @@ apt-get\
  libkf5idletime-dev\
  gettext\
  kirigami2-dev\
- packagekitqt5-dev\
+ libpackagekitqt5-dev\
  appstreamqt-dev\
  kf5newstuff-dev\
  flatpak\
